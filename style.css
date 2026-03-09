@@ -189,3 +189,12 @@ body {
     color: #3882e6;
     background-color: #fff;
 }
+
+.hover:active {
+    background-color: #e5e7eb;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
