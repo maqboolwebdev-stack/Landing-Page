@@ -192,6 +192,7 @@ body {
 
 .hover:active {
     background-color: #e5e7eb;
+    border-color: #e5e7eb;
 }
 
 a:hover {
